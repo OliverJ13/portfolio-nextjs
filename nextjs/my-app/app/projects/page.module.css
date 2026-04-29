@@ -1,0 +1,109 @@
+.logo img {
+    width: 150px;
+    height: auto;
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 80px;
+}
+
+
+.project_container1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+.project_container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.project_container3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: right;
+}
+.project_container4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    margin-top: 20px;
+}
+.extraproject4 {
+    margin-right: -70px;
+    margin-bottom: 20px;
+}
+
+
+.monogram img {
+    width: 150px;
+    height: auto;
+}
+.extraproject1 {
+    background-color: #213c45;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.extraproject2  {
+    background-color: #213c45;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.extraproject5 {
+    background-color: #213c45;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.extraproject6 {
+    background-color: #213c45;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.illustrative img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}
+.extraproject3, .extraproject4 {
+    background-color: #293835;
+    width: 150px;
+    height: 150px;
+}
+.animalmascot img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}
+.glassgalaxy img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}
+.bookcasebackground img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}
+
+.bedroombackground img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}
+.hobbylogo img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+}

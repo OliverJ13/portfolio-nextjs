@@ -1,0 +1,44 @@
+.logo img{
+    width: 150px;
+    height: auto;
+}
+.h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 80px;
+}
+.perspic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.perspic img{
+    display: flex;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.wordblocks {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.persdetail, .work, .experience {
+    background-color: #293835;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 18px;
+    text-align: center;
+}

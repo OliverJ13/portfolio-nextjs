@@ -1,0 +1,118 @@
+.logo img{
+    width: 150px;
+    height: auto;
+}
+
+.bedroombackground img, .bookcasebackground img{
+    width: 500px;
+    height: auto;
+}
+
+
+.h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 80px;
+}
+.monogramcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.monogramtext {
+    margin-left: 20px;
+    max-width: 400px;
+    background-color: #293835;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.illustrativecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #293835;
+    height: 600px;
+}
+.illustrativetext {
+    margin-right: 20px;
+    max-width: 400px;
+    background-color: #425450;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.animalmascotcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.animaltext {
+    margin-left: 20px;
+    max-width: 400px;
+    background-color: #293835;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.glassgalaxycontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #293835;
+    height: 600px;
+}
+.glasstext {
+    margin-right: 20px;
+    max-width: 400px;
+    background-color: #425450;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.bookcasecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.bookcasetext {
+    margin-left: 20px;
+    max-width: 400px;
+    background-color: #293835;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.bedroomcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #293835;
+    height: 600px;
+}
+.bedroomtext {
+    margin-right: 20px;
+    max-width: 400px;
+    background-color: #425450;
+    border-radius: 8px;
+    padding: 10px;
+}
+.hobbylogocontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.hobbytext {
+    margin-left: 20px;
+    max-width: 400px;
+    background-color: #293835;
+    border-radius: 8px;
+    padding: 10px;
+}
