@@ -8,7 +8,7 @@ const Navigation = () => {
     <header> <div className={style.lefthead}>
         <a href="/"><img
         className={style.logo}
-        src="/logo_transparentbck.svg"
+        src="/public/logo_transparentbck.svg"
         alt="My Logo"
         width="150"
         height="150"
@@ -16,7 +16,7 @@ const Navigation = () => {
         Oliver Jelderks</div> 
         <div className={style.righthead}>
             <a href="/about">About me</a>
-            <a href="/projects">Portfolio</a> 
+            <a href="/portfolio">Portfolio</a> 
             <a href="/individual-projects">Individual Projects</a>
             </div></header>
        </div>

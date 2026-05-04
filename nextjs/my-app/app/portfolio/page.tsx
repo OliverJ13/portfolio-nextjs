@@ -9,7 +9,7 @@ import Bedroom from "@/assests/images/Background_Bedroom.png"
 import Bookcase from "@/assests/images/Backrgound_Bookcase.png"
 import Navigation from "@/components/header/Navigation"
 
-export default function Projects() {
+export default function Portfolio() {
   return (
   <>
      <Navigation />

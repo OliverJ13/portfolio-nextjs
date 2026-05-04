@@ -5,6 +5,7 @@ import Galaxy from "@/assests/images/Glass_galaxy.png"
 import Illustrative from "@/assests/images/GDES131_FA25_2.2IllustrativeSet_OJelderks_Portrait.png"
 import Navigation from "@/components/header/Navigation"
 
+
 export default function Home() {
   return (
   <>
