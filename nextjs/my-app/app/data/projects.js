@@ -9,13 +9,13 @@
  
  const project1 = {
     id: "6c666a71-5709-4b8e-8f92-fa4cd7ed92da",
-    slug: "/assests/images/GDES131_FA25_4.1Monogram_OJelderks.png", 
+    slug: "/projects/monogram", 
     title: "Monogram",
     description: "This is a digital artpiece of my initials",
     category: "Illustrator",
     createdAt: "20025-12-10T09:34:40Z",
     photo: {
-        url: "/assests/images/GDES131_FA25_4.1Monogram_OJelderks.png",
+        url: Monogram.src,
         alt: "A monogram of my Intiials",
         title: "Monogram",
     },
@@ -36,13 +36,13 @@
 
 const project2 = {
     id: "ba654dfc-9a56-4a21-a759-6f2116b25df8",
-    slug: "/imgaes/Glass_galaxy.png", 
+    slug: "/projects/galaxy", 
     title: "A Glass Galaxy",
     description: "This is a galaxy made of glass",
     category: "Illustrator",
     createdAt: "20025-11-24T10:20:40Z",
     photo: {
-        url: "/images/Glass_galaxy.png",
+        url: Galaxy.src,
         alt: "A galaxy made of glass",
         title: "A Glass Galaxy",
     },
@@ -64,13 +64,13 @@ const project2 = {
 
 const project3 = {
     id: "d438dbca-5484-4001-9620-1f5bd369c38f",
-    slug: "/images/Animal_mascot.png", 
+    slug: "/projects/mascot", 
     title: "Animal Mascot",
     description: "A stain glass style crow",
     category: "Illustrator",
     createdAt: "20026-02-06T9:25:50Z",
     photo: {
-        url: "/images/Animal_mascot.png",
+        url: Mascot.src,
         alt: "Animal Mascot",
         title: "Animal Mascot",
     },
@@ -91,13 +91,13 @@ const project3 = {
 
 const project4 = {
     id: "0427c3a3-d177-42cf-b85e-ed04ab1ae645",
-    slug: "/images/Background_Bedroom.png", 
+    slug: "/projects/bedroom", 
     title: "Bedroom Background",
     description: "A procreate drawing of a bedroom background.",
     category: "Procreate",
     createdAt: "20026-02-06T9:25:50Z",
     photo: {
-        url: "/images/Background_Bedroom.png",
+        url: Bedroom.src,
         alt: "Bedroom Background",
         title: "Bedroom Background",
     },
@@ -118,20 +118,20 @@ const project4 = {
 
 const project5 = {
     id: "f77f341b-dea9-4f39-aa89-849db4b49ac3",
-    slug: "/images/Background_Bookcase.png", 
+    slug: "/projetcs/bookcase", 
     title: "Bookcase Background",
     description: "A procreate drawing of a room with a bookcase background.",
     category: "Procreate",
     createdAt: "20026-02-06T9:25:50Z",
     photo: {
-        url: "/images/Background_Bookcase.png",
+        url: Bookcase.src,
         alt: "Bookcase Background",
         title: "Bookcase Background",
     },
 
     process: [
         {
-            title: "Bedroom Background",
+            title: "Bookcase Background",
             description: "A procreate drawing of a room with a bookcase background.",
             photo: {
                 url: "/images/Background_Bookcase.png",
@@ -145,13 +145,13 @@ const project5 = {
 
 const project6 = {
     id: "07b55907-e277-4df4-b1dd-5c95634ca378",
-    slug: "/images/Hobby_logo.png", 
+    slug: "/projetcs/Hobby", 
     title: "Hobby Logo",
     description: "First Illustrator piece of a favorite hobby of mine.",
     category: "Illustrator",
     createdAt: "20026-02-06T9:25:50Z",
     photo: {
-        url: "/images/Hobby_logo.png",
+        url: Hobby.src,
         alt: "Hobby Logo",
         title: "Hobby Logo",
     },
@@ -172,13 +172,13 @@ const project6 = {
 
 const project7 = {
     id: "73bf8649-bdd1-43ab-b4c9-f530729ece56",
-    slug: "/images/Illustrative_set.png", 
+    slug: "/projects", 
     title: "Illustrative Set",
     description: "A illustrative pattern that can be repeaeted.",
     category: "Illustrator",
     createdAt: "20026-02-06T9:25:50Z",
     photo: {
-        url: "/images/Illustrative_set.png",
+        url: Illustrative.src,
         alt: "Illustrative Set",
         title: "Illustrative Set",
     },

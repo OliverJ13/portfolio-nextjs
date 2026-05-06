@@ -1,18 +1,20 @@
 import style from "@/components/header/Navigation.module.css"
-
+import Image from "next/image"
 
 
 const Navigation = () => {
     return(
         <div className={style.header}>
     <header> <div className={style.lefthead}>
-        <a href="/"><img
+        <a href="/">
+        <Image
         className={style.logo}
-        src="/public/logo_transparentbck.svg"
+        src="/logo.svg"
         alt="My Logo"
-        width="150"
-        height="150"
-        /> </a>
+        width={150}
+        height={150}
+        /> 
+        </a>
         Oliver Jelderks</div> 
         <div className={style.righthead}>
             <a href="/about">About me</a>
